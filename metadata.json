@@ -1,0 +1,8 @@
+{
+  "name": "SkillSwap AI",
+  "description": "A peer-to-peer skill exchange platform that uses Gemini AI to match technical problems with available experts in real-time.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
