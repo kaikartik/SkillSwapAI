@@ -1,12 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# ⚡ Skill-Swap AI (1-Hour MVP)
 
-# Run and deploy your AI Studio app
+A real-time platform where community members swap skills in 15-minute video bursts. 
 
-This contains everything you need to run your app locally.
+### 🚀 Features
+- **Google Auth:** One-tap secure login.
+- **AI Matching:** Gemini 1.5 Flash analyzes your problem and finds the best expert online.
+- **Real-time Pulse:** Live dashboard of community help sessions using Firestore.
+- **Video Swap:** Built-in video calling for instant collaboration.
+- **Mobile First:** Minimalist, responsive dark-mode UI.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fPjDSCzFMgqPC4j0rz3w2YrvMlHmzMoV
+### 🛠️ Tech Stack
+- **Frontend:** Vanilla JS, Tailwind CSS (CDN)
+- **Database/Auth:** Firebase (Firestore & Auth)
+- **AI Brain:** Google AI Studio (Gemini API)
+- **Deployment:** GitHub Pages
 
 ## Run Locally
 
