@@ -1,4 +1,4 @@
-# ⚡ Skill-Swap AI (1-Hour MVP)
+# ⚡ Skill-Swap AI 
 
 A real-time platform where community members swap skills in 15-minute video bursts. 
 
